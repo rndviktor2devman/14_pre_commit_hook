@@ -3,8 +3,9 @@
 #### Prerequisites:
 No speciefic packages need to be installed, just run
 
-'cp pre-commit .git/hooks/'
-'sudo chmod +x .git/hooks/pre-commit'
+__cp pre-commit .git/hooks/__
+
+__sudo chmod +x .git/hooks/pre-commit__
 
 ---
 #### Usage:
